@@ -80,7 +80,7 @@
     }
   ],
   "orders": [],
-"categories": [
+  "categories": [
     {
       "id": 1,
       "name": "Fruits",
@@ -89,12 +89,68 @@
     {
       "id": 2,
       "name": "Vegetables",
-      "image": "https://www.diagnosisdiet.com/assets/images/7/fruit-og-jcnp4h14m2mh5t9.jpg"
+      "image": "https://4.imimg.com/data4/AY/TE/IMOB-27708947/c__data_users_defapps_appdata_internetexplorer_temp_sav-500x500.jpg"
     },
     {
       "id": 3,
       "name": "Rice & Grains",
-      "image": "https://www.diagnosisdiet.com/assets/images/7/fruit-og-jcnp4h14m2mh5t9.jpg"
+      "image": "https://cdn.prod.website-files.com/66e9e86e939e026869639119/66fc4e47b5d69fb0deb88654_iStock-153737841-scaled.jpeg"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "muhsina",
+      "email": "kfkdsjka@gmail.com",
+      "message": "hdsaudhasjkdasnm",
+      "id": 1
+    },
+    {
+      "name": "ajkdjd",
+      "email": "madjk@gmail.com",
+      "message": "njdhaskdjakjd",
+      "id": 2
+    },
+    {
+      "name": "kahd",
+      "email": "kjahd@gmail.com",
+      "message": "hdahdajks",
+      "id": 3
+    },
+    {
+      "name": "kzdL",
+      "email": "nkajdsk@gmail.com",
+      "message": "kajdhaskfj",
+      "id": 4
+    },
+    {
+      "name": "makfja",
+      "email": "hriuwh@gmail.com",
+      "message": "vyguj",
+      "id": 5
+    },
+    {
+      "name": "muhsina",
+      "email": "audhiajd@gmai.com",
+      "message": "mnhiuahjasdf",
+      "id": 6
+    },
+    {
+      "name": "ahda",
+      "email": "1348ajda@gmail.com",
+      "message": "hfiwuf",
+      "id": 7
+    },
+    {
+      "name": "musi",
+      "email": "musi123@gmail.com",
+      "message": "jjdaksdmd",
+      "id": 8
+    },
+    {
+      "name": "masd",
+      "email": "kjdaks@gmail.com",
+      "message": "sdjaid",
+      "id": 9
     }
   ]
 }
